@@ -38,7 +38,10 @@ envs/
 *dask-worker-space*
 .ipynb_checkpoints*
 */__pycache__/*
+*.coverage*
+*coverage.xml*
 docs/book/_build/*
-*/OG-IND_example_plots/*
-*/ogind_example_output.csv
-*/OG-IND-Example/*
+*/OG-ZAF_example_plots/*
+*ogzaf_example_output.csv
+*/OG-ZAF-Example/*
+*un_api_token.txt*

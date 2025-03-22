@@ -1,0 +1,2 @@
+include ogind/ogind_default_parameters.json
+include ogind/data/002_IFPRI_SAM_IDN_2018_SAM.csv
